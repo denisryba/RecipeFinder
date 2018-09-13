@@ -1,0 +1,9 @@
+C:\Users\yeahj\source\repos\ReciepeFinder\ReciepeFinder\bin\Debug\RecipeFinder.exe.config
+C:\Users\yeahj\source\repos\ReciepeFinder\ReciepeFinder\bin\Debug\RecipeFinder.exe
+C:\Users\yeahj\source\repos\ReciepeFinder\ReciepeFinder\bin\Debug\RecipeFinder.pdb
+C:\Users\yeahj\source\repos\ReciepeFinder\ReciepeFinder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yeahj\source\repos\ReciepeFinder\ReciepeFinder\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yeahj\source\repos\ReciepeFinder\ReciepeFinder\obj\Debug\RecipeFinder.csprojResolveAssemblyReference.cache
+C:\Users\yeahj\source\repos\ReciepeFinder\ReciepeFinder\obj\Debug\RecipeFinder.csproj.CoreCompileInputs.cache
+C:\Users\yeahj\source\repos\ReciepeFinder\ReciepeFinder\obj\Debug\RecipeFinder.exe
+C:\Users\yeahj\source\repos\ReciepeFinder\ReciepeFinder\obj\Debug\RecipeFinder.pdb
